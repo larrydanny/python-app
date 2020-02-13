@@ -15,6 +15,6 @@
 > You need to change <b>Line #22</b> replace <b>YOUR_API_KEY</b> text to openweathermap api key
 
 #### How it work?
-> ![Image description](https://github.com/larrydanny/python-apps/blob/master/weather_app_open_weather_map_api.py)
+> ![Image description](https://github.com/larrydanny/python-apps/blob/master/images/weather_app_openweathermap_api.gif)
 
 [Click](https://github.com/larrydanny/python-apps/blob/master/weather_app_open_weather_map_api.py) to view the code.
