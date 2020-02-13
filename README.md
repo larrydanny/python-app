@@ -31,3 +31,8 @@
 2. Check your email and enter the code
 3. Login into <a href="https://docs.airnowapi.org/login" trarget="_blank">airnow</a>
 4. Go to this <a href="https://docs.airnowapi.org/forecastsbyzip/query" trarget="_blank">link</a> and this page you will get you api key on right side.
+
+#### How it work?
+> ![Image description](https://github.com/larrydanny/python-apps/blob/master/images/weather_app_airnow_api.gif)
+
+[Click](https://github.com/larrydanny/python-apps/blob/master/weather_app_air_now_api.py) to view the code.
